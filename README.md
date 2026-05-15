@@ -38,11 +38,11 @@ As bases foram unificadas em uma única estrutura analítica.
 
 Etapas realizadas:
 
-✔ Padronização das colunas
-✔ Conversão de dados numéricos
-✔ Tratamento de valores nulos
-✔ Criação da variável alvo
-✔ Separação treino e teste
+✔ Padronização das colunas  
+✔ Conversão de dados numéricos  
+✔ Tratamento de valores nulos  
+✔ Criação da variável alvo  
+✔ Separação treino e teste  
 
 ---
 
@@ -108,6 +108,6 @@ datathon-passos-magicos
 https://datathon-paapps-magicos-e8jrkkeezug7knrcreizvj.streamlit.app/
 
 **Vídeo da apresentação:**
-(adicionar após upload)
+[(adicionar após upload)](https://github.com/EmmillyKatriny/datathon-passos-magicos/blob/main/video.mp4)  
 
 ---
