@@ -108,6 +108,6 @@ datathon-passos-magicos
 https://datathon-paapps-magicos-e8jrkkeezug7knrcreizvj.streamlit.app/
 
 **Vídeo da apresentação:**
-[(adicionar após upload)](https://github.com/EmmillyKatriny/datathon-passos-magicos/blob/main/video.mp4)  
+[(https://github.com/EmmillyKatriny/datathon-passos-magicos/blob/main/video.mp4)]  
 
 ---
