@@ -90,6 +90,7 @@ datathon-passos-magicos
 ├── tech_challenge_passos_magicos.ipynb
 ├── Storytelling — ONG Passos Mágicos.pdf
 ├── BASE DE DADOS PEDE 2024 - DATATHON.xlsx
+├── Video.mp4  
 └── README.md
 ```
 
@@ -108,6 +109,6 @@ datathon-passos-magicos
 https://datathon-paapps-magicos-e8jrkkeezug7knrcreizvj.streamlit.app/
 
 **Vídeo da apresentação:**
-[(https://github.com/EmmillyKatriny/datathon-passos-magicos/blob/main/video.mp4)]  
+https://github.com/EmmillyKatriny/datathon-passos-magicos/blob/main/video.mp4  
 
 ---
